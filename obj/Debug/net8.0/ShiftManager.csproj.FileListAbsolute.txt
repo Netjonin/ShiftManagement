@@ -36,3 +36,4 @@ C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\Inf
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\Infrastructure\obj\project.assets.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\Services\obj\project.assets.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\Services\obj\Services.csproj.nuget.dgspec.json
+C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\obj\Debug\net8.0\ShiftManager.sourcelink.json
