@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManager\\ShiftManager.csproj": {}
+    "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManagement\\ShiftManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManager\\ShiftManager.csproj": {
+    "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManagement\\ShiftManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManager\\ShiftManager.csproj",
+        "projectUniqueName": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManagement\\ShiftManager.csproj",
         "projectName": "ShiftManager",
-        "projectPath": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManager\\ShiftManager.csproj",
+        "projectPath": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManagement\\ShiftManager.csproj",
         "packagesPath": "C:\\Users\\taofeekaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManager\\obj\\",
+        "outputPath": "C:\\Users\\taofeekaj\\source\\repos\\csharpprojects\\ShiftManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
