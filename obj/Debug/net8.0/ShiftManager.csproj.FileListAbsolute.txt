@@ -145,13 +145,20 @@ C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\tr\
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManager\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\appsettings.Development.json
+<<<<<<< HEAD
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\appsettings.json
+=======
+>>>>>>> preprod
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Domain\obj\Domain.csproj.nuget.dgspec.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Domain\obj\project.assets.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Infrastructure\obj\Infrastructure.csproj.nuget.dgspec.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Infrastructure\obj\project.assets.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Services\obj\project.assets.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\Services\obj\Services.csproj.nuget.dgspec.json
+<<<<<<< HEAD
+=======
+C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\appsettings.json
+>>>>>>> preprod
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\ShiftManager.exe
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\ShiftManager.deps.json
 C:\Users\taofeekaj\source\repos\csharpprojects\ShiftManagement\bin\Debug\net8.0\ShiftManager.runtimeconfig.json
