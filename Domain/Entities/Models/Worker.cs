@@ -4,7 +4,7 @@ public class Worker
 {
     public Guid Id { get; set; }
     public string Name { get; set; } = string.Empty;
-    public string? Position { get; set; }
+    public string? Department { get; set; }
     public int Age { get; set; }
     public Guid ShiftId { get; set; }
     public Shift? Shift { get; set; }
